@@ -128,7 +128,7 @@ body {
     height: 110px;
 }
 
-/* Adaptive section  */
+/* Responsive section  */
 
 @media (max-width: 1400px) {
     .picture img {
